@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
+## About Me 🧑🏻‍💻
 
 I'm a hard working and dedicated individual with a focus on programming. I love learning new technology and video games.
 
@@ -24,20 +24,20 @@ I'm a hard working and dedicated individual with a focus on programming. I love 
 - 🌱 Currently learning: Web Development
 - 💬 Ask me about: Programming related topics
 
-## Contact Me
+## Contact Me 📲
 
 - Personal Portfolio: https://www.Jessebalves.com
 - LinkedIn: https://www.linkedin.com/in/jessebalves10/
 - Email: Jessebalves@gmail.com
 
-## Contributions & Projects
+## Contributions & Projects 💻
 
 - VEM: https://github.com/Jessebalves/Virtual_Environment_Management_Program
 - TrashScheduleNJ.com: https://github.com/Jessebalves/TrashScheduleNJ.com
 - Trash Schedule: https://github.com/Jessebalves/trashschedule
 - Personal Portfolio: https://github.com/Jessebalves/Personal_Portfolio
 
-## GitHub Stats
+## GitHub Stats 📊
 
  [![Jesses's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessebalves)](https://github.com/Jessebalves/github-readme-stats)  
  [![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Jessebalves&layout=donut-vertical)](https://github.com/Jessebalves/github-readme-stats)
