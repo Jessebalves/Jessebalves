@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me 🧑
+## About Me 🧔🏻
 
 I'm a hard working and dedicated individual with a focus on programming. I love learning new technology and video games.
 
