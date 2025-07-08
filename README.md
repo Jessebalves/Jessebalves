@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 
 ## About Me 🧔🏻
 
-I'm a hard working and dedicated individual with a focus on programming. I love learning new technology and video games.
+I'm a hard working and dedicated individual with a focus on programming. I love learning how tot use new technology and video games.
 
-- 🔭 Currently working on: TrashScheduleNJ.com
+<!--- 🔭 Currently working on: TrashScheduleNJ.com
 - 🌱 Currently learning: Web Development
-- 💬 Ask me about: Programming related topics
+- 💬 Ask me about: Programming related topics-->
 
 ## Contact Me 📲
 
-- Personal Portfolio: https://www.Jessebalves.com
-- LinkedIn: https://www.linkedin.com/in/jessebalves10/
+<!--- Personal Portfolio: https://www.Jessebalves.com-->
 - Email: Jessebalves@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jessebalves10/
 
 ## Contributions & Projects 💻
 
