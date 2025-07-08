@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## About Me 🧔🏻
 
-I'm a hard working and dedicated individual with a focus on programming. I love learning how to use new technology and video games.
+I'm a hard working and dedicated individual with a focus on programming. I love learning how to use new technology and playing video games.
 
 <!--- 🔭 Currently working on: TrashScheduleNJ.com
 - 🌱 Currently learning: Web Development
