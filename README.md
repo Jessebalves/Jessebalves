@@ -32,10 +32,10 @@ I'm a hard working and dedicated individual with a focus on programming. I love 
 
 ## Contributions & Projects 💻
 - KeanRoutes: https://github.com/Jessebalves/KeanRoutes
-- VEM: https://github.com/Jessebalves/Virtual_Environment_Management_Program
 - TrashScheduleNJ: https://github.com/Jessebalves/TrashScheduleNJ.com
 - Trash Schedule: https://github.com/Jessebalves/trashschedule
 - VEM: https://github.com/Jessebalves/Virtual_Environment_Management_Program
+- Website using login: https://github.com/Jessebalves/CPS3498_Final_Project
 - Personal Portfolio: https://github.com/Jessebalves/Personal_Portfolio
 
 ## GitHub Stats 📊
