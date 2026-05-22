@@ -31,9 +31,9 @@ I'm a hard working and dedicated individual with a focus on programming. I love 
 - LinkedIn: https://www.linkedin.com/in/jessebalves10/
 
 ## Contributions & Projects 💻
-- Personal Portfolio: https://github.com/Jessebalves/Personal_Portfolio
-- KeanRoutes: https://github.com/Jessebalves/KeanRoutes
-- TrashScheduleNJ: https://github.com/Jessebalves/TrashScheduleNJ.com
+- Personal Portfolio: https://jessebalves.com
+- KeanRoutes: https://keanroutes.com
+- TrashScheduleNJ: https://TrashScheduleNJ.com
 - Trash Schedule: https://github.com/Jessebalves/trashschedule
 - Dunes: https://github.com/BDogg2003/Dunes
 - Blue Team vs Red Team: https://github.com/Jessebalves/CPS3498_Final_Project
