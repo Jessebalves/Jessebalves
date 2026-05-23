@@ -35,7 +35,7 @@ I'm a hard working and dedicated individual with a focus on programming. I love 
 - KeanRoutes: https://keanroutes.com
 - TrashScheduleNJ: https://TrashScheduleNJ.com
 - Trash Schedule: https://github.com/Jessebalves/trashschedule
-- Dunes: https://github.com/BDogg2003/Dunes
+- Dunes: https://github.com/Jessebalves/Dunes
 - Blue Team vs Red Team: https://github.com/Jessebalves/CPS3498_Final_Project
 
 <!--## GitHub Stats 📊
