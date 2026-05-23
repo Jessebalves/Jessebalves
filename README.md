@@ -31,13 +31,17 @@ I'm a hard working and dedicated individual with a focus on programming. I love 
 - LinkedIn: https://www.linkedin.com/in/jessebalves10/
 
 ## Contributions & Projects 💻
-- Personal Portfolio: https://jessebalves.com
-- KeanRoutes: https://keanroutes.com
-- TrashScheduleNJ: https://TrashScheduleNJ.com
+- Personal Portfolio: https://github.com/Jessebalves/Personal_Portfolio
+- KeanRoutes: https://github.com/Jessebalves/KeanRoutes
+- TrashScheduleNJ: https://github.com/Jessebalves/TrashScheduleNJ
 - Trash Schedule: https://github.com/Jessebalves/trashschedule
 - Dunes: https://github.com/Jessebalves/Dunes
 - Blue Team vs Red Team: https://github.com/Jessebalves/CPS3498_Final_Project
 
+## Live Demos 📺
+- Personal Portfolio: https://jessebalves.com
+- KeanRoutes: https://keanroutes.com
+- TrashScheduleNJ: https://TrashScheduleNJ.com
 <!--## GitHub Stats 📊
 
  [![Jesses's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jessebalves)](https://github.com/Jessebalves/github-readme-stats)  
