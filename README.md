@@ -27,6 +27,7 @@ I'm a hard working and dedicated individual with a focus on programming. I love 
 ## Contact Me 📲
 
 <!--- Personal Portfolio: https://www.Jessebalves.com-->
+- Mobile: 908-627-5331
 - Email: Jessebalves@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jessebalves10/
 
